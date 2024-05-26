@@ -13,7 +13,15 @@ mkdir -p $DIST_PATH
 cp -r html $DIST_PATH
 
 touch slide-links.md
-rm -rf slide-links.md
+rm slide-links.md
+
+cat << EOS > slide-links.md
+# スライド集
+
+※自動生成による内容未精査含みます。
+
+EOS
+
 ls src | grep '.md$' | while read file; do
   FILENAME=${file%.*}
   A_LINK="<a href=\"/note/slides/html/${FILENAME}.html\" target=\"_blank\">${FILENAME}</a><br />"
