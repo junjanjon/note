@@ -5,8 +5,8 @@ cd $SCRIPT_DIR
 cd ..
 
 
-npx @marp-team/marp-cli@latest --input-dir src --html --output html
-npx @marp-team/marp-cli@latest --input-dir src --pdf --output pdf
+npx @marp-team/marp-cli@latest --theme src/yutori.css --input-dir src --html --output html
+npx @marp-team/marp-cli@latest --theme src/yutori.css --input-dir src --pdf --output pdf
 
 DIST_PATH=../../public/slides
 mkdir -p $DIST_PATH

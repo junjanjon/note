@@ -14,3 +14,7 @@
 <object data="/note/slides/pdf/2024-05-daiso-ear-phone.pdf" type="application/pdf" width="960px" height="540px">
     <p>Your browser does not support PDF files.<a href="/note/slides/pdf/2024-05-daiso-ear-phone.pdf">Download the file instead</a></p>
 </object>
+<a href="/note/slides/html/2024-05-furen-button.html" target="_blank">2024-05-furen-button</a><br />
+<object data="/note/slides/pdf/2024-05-furen-button.pdf" type="application/pdf" width="960px" height="540px">
+    <p>Your browser does not support PDF files.<a href="/note/slides/pdf/2024-05-furen-button.pdf">Download the file instead</a></p>
+</object>

@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: yutori
 ---
 
 # サイト技術紹介

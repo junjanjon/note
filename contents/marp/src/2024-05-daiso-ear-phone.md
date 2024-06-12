@@ -1,5 +1,5 @@
 ---
-theme: uncover
+theme: yutori
 headingDivider: 1
 ---
 
