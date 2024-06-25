@@ -1,8 +1,7 @@
 ---
 marp: true
 title: JavaScriptの魅力
-author: 
-theme: default
+theme: yutori
 paginate: true
 ---
 
