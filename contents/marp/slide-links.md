@@ -22,3 +22,7 @@
 <object data="/note/slides/pdf/2024-06-LT.pdf" type="application/pdf" width="960px" height="540px">
     <p>Your browser does not support PDF files.<a href="/note/slides/pdf/2024-06-LT.pdf">Download the file instead</a></p>
 </object>
+<a href="/note/slides/html/2024-09-dotfiles.html" target="_blank">2024-09-dotfiles</a><br />
+<object data="/note/slides/pdf/2024-09-dotfiles.pdf" type="application/pdf" width="960px" height="540px">
+    <p>Your browser does not support PDF files.<a href="/note/slides/pdf/2024-09-dotfiles.pdf">Download the file instead</a></p>
+</object>
